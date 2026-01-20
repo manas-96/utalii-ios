@@ -33,9 +33,15 @@ class SplaceScreenVC: UIViewController {
     
     override func viewWillAppear(_ animated: Bool) {
         navigationController?.navigationBar.isHidden = true
-        let statusBar = UIView(frame: (UIApplication.shared.keyWindow?.windowScene?.statusBarManager?.statusBarFrame)!)
-        statusBar.backgroundColor = colorBlue
-        UIApplication.shared.keyWindow?.addSubview(statusBar)
+        if #available(iOS 13.0, *) {
+            let window = UIApplication.shared.windows.first(where: { $0.isKeyWindow })
+            let statusBar = UIView(frame: window?.windowScene?.statusBarManager?.statusBarFrame ?? CGRect.zero)
+            statusBar.backgroundColor = colorBlue
+            window?.addSubview(statusBar)
+        } else {
+            let statusBar = UIApplication.shared.value(forKeyPath: "statusBarWindow.statusBar") as? UIView
+            statusBar?.backgroundColor = colorBlue
+        }
     }
     
     //MARK :- Our Function

@@ -29,7 +29,18 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         //var DeviceToken = ""
     
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-    
+
+        if #available(iOS 13.0, *) {
+            // In iOS 13+, scene-based life cycle is used.
+            // The window setup is done in SceneDelegate.
+        } else {
+            // For iOS 12 and below, setup the window here.
+            window = UIWindow(frame: UIScreen.main.bounds)
+            let navigationController = storyBoard.instantiateViewController(withIdentifier: "loginNavigationView") as! UINavigationController
+            window?.rootViewController = navigationController
+            window?.makeKeyAndVisible()
+        }
+
         FirebaseApp.configure()
         Messaging.messaging().delegate = self
         let center = UNUserNotificationCenter.current()
@@ -40,35 +51,14 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         }
         application.registerForRemoteNotifications()
         UNUserNotificationCenter.current().delegate = self
-
         
         let googleMapsApiKey = "AIzaSyDARs3i8XWlc-hYRUwQcIRbswM2KtxAeqI"
         GMSServices.provideAPIKey(googleMapsApiKey)
         GMSPlacesClient.provideAPIKey("AIzaSyDARs3i8XWlc-hYRUwQcIRbswM2KtxAeqI")
-
-         if #available(iOS 13, *){
-            
-        }
-        else{
-            UIApplication.shared.statusBarView?.backgroundColor = colorPrimaryDark
-        }
         
-//        if(UserDefaults.standard.bool(forKey: KU_ISLOGIN)){
-//            if #available(iOS 13.0, *){
-//
-//            }
-//            else{
-//                let navigationController = storyBoard.instantiateViewController(withIdentifier: "HomeNavigationController") as! UINavigationController
-//                let window = UIApplication.shared.delegate!.window!
-//                window!.rootViewController = navigationController
-//                UIView.transition(with: window!, duration: 0.3, options: [.transitionCrossDissolve], animations: nil, completion: nil)
-//            }
-//        }
-
         IQKeyboardManager.shared.isEnabled = true
         IQKeyboardManager.shared.enableAutoToolbar = true
 
-         
         return true
     }
 }

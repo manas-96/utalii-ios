@@ -738,145 +738,61 @@ class ConstantFunction {
     func login(){
         UserDefaults.standard.set(false, forKey: KU_ISLOGIN)
         UserDefaults.standard.setValue("", forKey: KU_USERID)
-        UserDefaults.standard.setValue("", forKey: KU_USERTYPE) 
-      // sid UserDefaults.standard.removeObject(forKey: KU_USERRESPONCE)
+        UserDefaults.standard.setValue("", forKey: KU_USERTYPE)
+        // sid UserDefaults.standard.removeObject(forKey: KU_USERRESPONCE)
 
-        if #available(iOS 13.0, *){
-            let navigationController = storyBoard.instantiateViewController(withIdentifier: "loginNavigationView") as! UINavigationController
-            if let scene = UIApplication.shared.connectedScenes.first{
-                guard let windowScene = (scene as? UIWindowScene) else { return }
-                let window: UIWindow = UIWindow(frame: windowScene.coordinateSpace.bounds)
-                window.windowScene = windowScene //Make sure to do this
-                window.rootViewController = navigationController
-                window.makeKeyAndVisible()
-                K_AppDelegate.window = window
-            }
-        }
-        else {
-            let navigationController = storyBoard.instantiateViewController(withIdentifier: "loginNavigationView") as! UINavigationController
-            let window = UIApplication.shared.delegate!.window!
-            window!.rootViewController = navigationController
-            UIView.transition(with: window!, duration: 0.3, options: [.transitionCrossDissolve], animations: nil, completion: nil)
+        let navigationController = storyBoard.instantiateViewController(withIdentifier: "loginNavigationView") as! UINavigationController
+        if let window = K_AppDelegate.window {
+            window.rootViewController = navigationController
+            UIView.transition(with: window, duration: 0.3, options: [.transitionCrossDissolve], animations: nil, completion: nil)
         }
     }
 
     func touristHome(){
-        if #available(iOS 13.0, *){
-            let navigationController = touristStoryBoard.instantiateViewController(withIdentifier: "TouristHomeDetail") as! UINavigationController
-            if let scene = UIApplication.shared.connectedScenes.first{
-                guard let windowScene = (scene as? UIWindowScene) else { return }
-                let window: UIWindow = UIWindow(frame: windowScene.coordinateSpace.bounds)
-                window.windowScene = windowScene //Make sure to do this
-                window.rootViewController = navigationController
-                window.makeKeyAndVisible()
-                K_AppDelegate.window = window
-            }
-        }
-        else {
-            let navigationController = touristStoryBoard.instantiateViewController(withIdentifier: "TouristHomeDetail") as! UINavigationController
-            let window = UIApplication.shared.delegate!.window!
-            window!.rootViewController = navigationController
-            UIView.transition(with: window!, duration: 0.3, options: [.transitionCrossDissolve], animations: nil, completion: nil)
+        let navigationController = touristStoryBoard.instantiateViewController(withIdentifier: "TouristHomeDetail") as! UINavigationController
+        if let window = K_AppDelegate.window {
+            window.rootViewController = navigationController
+            UIView.transition(with: window, duration: 0.3, options: [.transitionCrossDissolve], animations: nil, completion: nil)
         }
     }
-    
+
     func touristProfile(){
-        if #available(iOS 13.0, *){
-            let navigationController = touristStoryBoard.instantiateViewController(withIdentifier: "TouristProfileVC") as! UINavigationController
-            if let scene = UIApplication.shared.connectedScenes.first{
-                guard let windowScene = (scene as? UIWindowScene) else { return }
-                let window: UIWindow = UIWindow(frame: windowScene.coordinateSpace.bounds)
-                window.windowScene = windowScene //Make sure to do this
-                window.rootViewController = navigationController
-                window.makeKeyAndVisible()
-                K_AppDelegate.window = window
-            }
-        }
-        else {
-            let navigationController = touristStoryBoard.instantiateViewController(withIdentifier: "TouristProfileVC") as! UINavigationController
-            let window = UIApplication.shared.delegate!.window!
-            window!.rootViewController = navigationController
-            UIView.transition(with: window!, duration: 0.3, options: [.transitionCrossDissolve], animations: nil, completion: nil)
+        let navigationController = touristStoryBoard.instantiateViewController(withIdentifier: "TouristProfileVC") as! UINavigationController
+        if let window = K_AppDelegate.window {
+            window.rootViewController = navigationController
+            UIView.transition(with: window, duration: 0.3, options: [.transitionCrossDissolve], animations: nil, completion: nil)
         }
     }
-    
+
     func touristVideo(){
-        if #available(iOS 13.0, *){
-            let navigationController = touristStoryBoard.instantiateViewController(withIdentifier: "TouristVideoVC") as! UINavigationController
-            if let scene = UIApplication.shared.connectedScenes.first{
-                guard let windowScene = (scene as? UIWindowScene) else { return }
-                let window: UIWindow = UIWindow(frame: windowScene.coordinateSpace.bounds)
-                window.windowScene = windowScene //Make sure to do this
-                window.rootViewController = navigationController
-                window.makeKeyAndVisible()
-                K_AppDelegate.window = window
-            }
-        }
-        else {
-            let navigationController = touristStoryBoard.instantiateViewController(withIdentifier: "TouristVideoVC") as! UINavigationController
-            let window = UIApplication.shared.delegate!.window!
-            window!.rootViewController = navigationController
-            UIView.transition(with: window!, duration: 0.3, options: [.transitionCrossDissolve], animations: nil, completion: nil)
+        let navigationController = touristStoryBoard.instantiateViewController(withIdentifier: "TouristVideoVC") as! UINavigationController
+        if let window = K_AppDelegate.window {
+            window.rootViewController = navigationController
+            UIView.transition(with: window, duration: 0.3, options: [.transitionCrossDissolve], animations: nil, completion: nil)
         }
     }
-    
+
     func touristCalendar(){
-        if #available(iOS 13.0, *){
-            let navigationController = touristStoryBoard.instantiateViewController(withIdentifier: "BookingHistoryVC") as! UINavigationController
-            if let scene = UIApplication.shared.connectedScenes.first{
-                guard let windowScene = (scene as? UIWindowScene) else { return }
-                let window: UIWindow = UIWindow(frame: windowScene.coordinateSpace.bounds)
-                window.windowScene = windowScene //Make sure to do this
-                window.rootViewController = navigationController
-                window.makeKeyAndVisible()
-                K_AppDelegate.window = window
-            }
-        }
-        else {
-            let navigationController = touristStoryBoard.instantiateViewController(withIdentifier: "BookingHistoryVC") as! UINavigationController
-            let window = UIApplication.shared.delegate!.window!
-            window!.rootViewController = navigationController
-            UIView.transition(with: window!, duration: 0.3, options: [.transitionCrossDissolve], animations: nil, completion: nil)
+        let navigationController = touristStoryBoard.instantiateViewController(withIdentifier: "BookingHistoryVC") as! UINavigationController
+        if let window = K_AppDelegate.window {
+            window.rootViewController = navigationController
+            UIView.transition(with: window, duration: 0.3, options: [.transitionCrossDissolve], animations: nil, completion: nil)
         }
     }
-    
+
     func touristMessage(){
-        if #available(iOS 13.0, *){
-            let navigationController = touristStoryBoard.instantiateViewController(withIdentifier: "TouristMessageVC") as! UINavigationController
-            if let scene = UIApplication.shared.connectedScenes.first{
-                guard let windowScene = (scene as? UIWindowScene) else { return }
-                let window: UIWindow = UIWindow(frame: windowScene.coordinateSpace.bounds)
-                window.windowScene = windowScene //Make sure to do this
-                window.rootViewController = navigationController
-                window.makeKeyAndVisible()
-                K_AppDelegate.window = window
-            }
-        }
-        else {
-            let navigationController = touristStoryBoard.instantiateViewController(withIdentifier: "TouristMessageVC") as! UINavigationController
-            let window = UIApplication.shared.delegate!.window!
-            window!.rootViewController = navigationController
-            UIView.transition(with: window!, duration: 0.3, options: [.transitionCrossDissolve], animations: nil, completion: nil)
+        let navigationController = touristStoryBoard.instantiateViewController(withIdentifier: "TouristMessageVC") as! UINavigationController
+        if let window = K_AppDelegate.window {
+            window.rootViewController = navigationController
+            UIView.transition(with: window, duration: 0.3, options: [.transitionCrossDissolve], animations: nil, completion: nil)
         }
     }
-    
+
     func guideHome(){
-        if #available(iOS 13.0, *){
-            let navigationController = guideStoryBoard.instantiateViewController(withIdentifier: "GuideHomeDetail") as! UINavigationController
-            if let scene = UIApplication.shared.connectedScenes.first{
-                guard let windowScene = (scene as? UIWindowScene) else { return }
-                let window: UIWindow = UIWindow(frame: windowScene.coordinateSpace.bounds)
-                window.windowScene = windowScene //Make sure to do this
-                window.rootViewController = navigationController
-                window.makeKeyAndVisible()
-                K_AppDelegate.window = window
-            }
-        }
-        else {
-            let navigationController = guideStoryBoard.instantiateViewController(withIdentifier: "GuideHomeDetail") as! UINavigationController
-            let window = UIApplication.shared.delegate!.window!
-            window!.rootViewController = navigationController
-            UIView.transition(with: window!, duration: 0.3, options: [.transitionCrossDissolve], animations: nil, completion: nil)
+        let navigationController = guideStoryBoard.instantiateViewController(withIdentifier: "GuideHomeDetail") as! UINavigationController
+        if let window = K_AppDelegate.window {
+            window.rootViewController = navigationController
+            UIView.transition(with: window, duration: 0.3, options: [.transitionCrossDissolve], animations: nil, completion: nil)
         }
     }
   
