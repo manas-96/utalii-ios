@@ -1,0 +1,20 @@
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/SwiftMessages/SwiftMessages/TopBottomAnimation.swift":
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/TopBottomAnimation.swiftdeps"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/TopBottomAnimation.d"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/TopBottomAnimation.dia"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/TopBottomAnimation.o"
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/SwiftMessages/SwiftMessages/UIViewController+Extensions.swift":
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/UIViewController+Extensions.d"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/UIViewController+Extensions.o"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/UIViewController+Extensions.swiftdeps"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/UIViewController+Extensions.dia"
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/SwiftMessages/SwiftMessages/UIEdgeInsets+Extensions.swift":
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/UIEdgeInsets+Extensions.d"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/UIEdgeInsets+Extensions.swiftdeps"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/UIEdgeInsets+Extensions.dia"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/UIEdgeInsets+Extensions.o"
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/SwiftMessages/SwiftMessages/UIWindow+Extensions.swift":
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/UIWindow+Extensions.d"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/UIWindow+Extensions.dia"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/UIWindow+Extensions.o"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/UIWindow+Extensions.swiftdeps"

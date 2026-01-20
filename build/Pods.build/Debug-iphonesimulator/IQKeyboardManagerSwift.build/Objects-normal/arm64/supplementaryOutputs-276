@@ -1,0 +1,15 @@
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Constants/IQKeyboardManagerConstants.swift":
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardManagerConstants.swiftdeps"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardManagerConstants.o"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardManagerConstants.d"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardManagerConstants.dia"
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Constants/IQKeyboardManagerConstantsInternal.swift":
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardManagerConstantsInternal.o"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardManagerConstantsInternal.d"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardManagerConstantsInternal.dia"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardManagerConstantsInternal.swiftdeps"
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQKeyboardManager+UITextFieldViewNotification.swift":
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardManager+UITextFieldViewNotification.swiftdeps"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardManager+UITextFieldViewNotification.dia"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardManager+UITextFieldViewNotification.d"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardManager+UITextFieldViewNotification.o"

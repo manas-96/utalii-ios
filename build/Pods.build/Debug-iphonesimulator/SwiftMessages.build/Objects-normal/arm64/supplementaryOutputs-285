@@ -1,0 +1,20 @@
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/SwiftMessages/SwiftMessages/MaskingView.swift":
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/MaskingView.o"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/MaskingView.dia"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/MaskingView.swiftdeps"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/MaskingView.d"
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/SwiftMessages/SwiftMessages/MarginAdjustable+Extensions.swift":
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable+Extensions.d"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable+Extensions.swiftdeps"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable+Extensions.o"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable+Extensions.dia"
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/SwiftMessages/SwiftMessages/KeyboardTrackingView.swift":
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/KeyboardTrackingView.o"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/KeyboardTrackingView.d"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/KeyboardTrackingView.swiftdeps"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/KeyboardTrackingView.dia"
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/SwiftMessages/SwiftMessages/MarginAdjustable.swift":
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable.dia"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable.swiftdeps"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable.d"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/arm64/MarginAdjustable.o"

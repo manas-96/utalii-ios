@@ -1,0 +1,15 @@
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQTitleBarButtonItem.swift":
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQTitleBarButtonItem.swiftdeps"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQTitleBarButtonItem.o"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQTitleBarButtonItem.d"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQTitleBarButtonItem.dia"
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQToolbar.swift":
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQToolbar.swiftdeps"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQToolbar.d"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQToolbar.o"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQToolbar.dia"
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQTextView/IQTextView.swift":
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQTextView.swiftdeps"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQTextView.dia"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQTextView.d"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQTextView.o"

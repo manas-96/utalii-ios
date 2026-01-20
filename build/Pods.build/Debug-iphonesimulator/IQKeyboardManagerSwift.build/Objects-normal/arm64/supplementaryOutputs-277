@@ -1,0 +1,15 @@
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Categories/IQNSArray+Sort.swift":
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQNSArray+Sort.d"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQNSArray+Sort.swiftdeps"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQNSArray+Sort.dia"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQNSArray+Sort.o"
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQPreviousNextView.swift":
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQPreviousNextView.swiftdeps"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQPreviousNextView.o"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQPreviousNextView.dia"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQPreviousNextView.d"
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQKeyboardReturnKeyHandler.swift":
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardReturnKeyHandler.d"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardReturnKeyHandler.dia"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardReturnKeyHandler.swiftdeps"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardReturnKeyHandler.o"

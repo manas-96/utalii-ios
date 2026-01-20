@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "32aa7578ff8bcb45936db400bc37b36814c2f3c17fbfeb444497c372767eb155"
+build_start_time: [1695715389, 228840000]
+build_end_time: [1695715393, 706918000]
+inputs:
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/RSSelectionMenu/RSSelectionMenu/RSSelectionMenu/Source/NavigationBarTheme.swift": [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/RSSelectionMenu/RSSelectionMenu/RSSelectionMenu/Source/RSFirstRowSelection.swift": [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/RSSelectionMenu/RSSelectionMenu/RSSelectionMenu/Source/RSSelectionMenuController.swift": [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/RSSelectionMenu/RSSelectionMenu/RSSelectionMenu/Source/RSSelectionMenuDataSource.swift": [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/RSSelectionMenu/RSSelectionMenu/RSSelectionMenu/Source/RSSelectionMenuDelegate.swift": [1687436510, 0]
+  ? "/Users/ios_kol/Downloads/Utalii 3 3/Pods/RSSelectionMenu/RSSelectionMenu/RSSelectionMenu/Source/RSSelectionMenuSearchDelegate.swift"
+  : [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/RSSelectionMenu/RSSelectionMenu/RSSelectionMenu/Source/RSSelectionTableView.swift": [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/RSSelectionMenu/RSSelectionMenu/RSSelectionMenu/Utilities/Constants.swift": [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/RSSelectionMenu/RSSelectionMenu/RSSelectionMenu/Utilities/Enums.swift": [1687436510, 0]
+  ? "/Users/ios_kol/Downloads/Utalii 3 3/Pods/RSSelectionMenu/RSSelectionMenu/RSSelectionMenu/Utilities/Extensions/ViewControllerExtension.swift"
+  : [1687436510, 0]

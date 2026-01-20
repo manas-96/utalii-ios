@@ -1,0 +1,65 @@
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/Resources/Global Functions/Api/APIhandler.swift":
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/APIhandler.d"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/APIhandler.swiftdeps"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/APIhandler.o"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/APIhandler.dia"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/Guide/Profile/EditGuideDetailVC.swift":
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/EditGuideDetailVC.o"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/EditGuideDetailVC.swiftdeps"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/EditGuideDetailVC.d"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/EditGuideDetailVC.dia"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/SplaceScreen/SplaceScreenVC.swift":
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/SplaceScreenVC.swiftdeps"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/SplaceScreenVC.o"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/SplaceScreenVC.dia"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/SplaceScreenVC.d"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/Resources/Constant/String.swift":
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/String.o"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/String.d"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/String.swiftdeps"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/String.dia"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/Guide/Home/TourPackage/xib/DefaultTourCollectionCell.swift":
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/DefaultTourCollectionCell.swiftdeps"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/DefaultTourCollectionCell.dia"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/DefaultTourCollectionCell.o"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/DefaultTourCollectionCell.d"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/Guide/Profile/GuideProfileVC.swift":
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/GuideProfileVC.dia"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/GuideProfileVC.d"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/GuideProfileVC.swiftdeps"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/GuideProfileVC.o"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/Resources/External Libraries/Country Code/CountiresViewController/CountriesViewController.swift":
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/CountriesViewController.o"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/CountriesViewController.d"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/CountriesViewController.dia"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/CountriesViewController.swiftdeps"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/Tourist/Message/xib/Chat/ChatImageTableViewCell.swift":
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/ChatImageTableViewCell.swiftdeps"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/ChatImageTableViewCell.o"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/ChatImageTableViewCell.d"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/ChatImageTableViewCell.dia"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/Model/BankModel.swift":
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/BankModel.swiftdeps"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/BankModel.dia"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/BankModel.d"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/BankModel.o"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/Tourist/Message/xib/Chat/Sender/SenderTextTableViewCell.swift":
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/SenderTextTableViewCell.d"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/SenderTextTableViewCell.swiftdeps"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/SenderTextTableViewCell.dia"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/SenderTextTableViewCell.o"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/Tourist/Home/AvilableGuideList/AvilableGuideListVC.swift":
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/AvilableGuideListVC.o"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/AvilableGuideListVC.dia"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/AvilableGuideListVC.d"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/AvilableGuideListVC.swiftdeps"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/Tourist/NotificationHistory/NotificationHistoryVC.swift":
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/NotificationHistoryVC.d"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/NotificationHistoryVC.o"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/NotificationHistoryVC.swiftdeps"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/NotificationHistoryVC.dia"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/LoginOrSignup/Selection/SelectionVC.swift":
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/SelectionVC.swiftdeps"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/SelectionVC.dia"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/SelectionVC.o"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/SelectionVC.d"

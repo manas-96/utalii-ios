@@ -1,0 +1,20 @@
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/SwiftMessages/SwiftMessages/Identifiable.swift":
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/Identifiable.swiftdeps"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/Identifiable.dia"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/Identifiable.d"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/Identifiable.o"
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/SwiftMessages/SwiftMessages/CALayer+Extensions.swift":
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/CALayer+Extensions.d"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/CALayer+Extensions.dia"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/CALayer+Extensions.o"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/CALayer+Extensions.swiftdeps"
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/SwiftMessages/SwiftMessages/Error.swift":
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/Error.o"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/Error.d"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/Error.dia"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/Error.swiftdeps"
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/SwiftMessages/SwiftMessages/CornerRoundingView.swift":
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/CornerRoundingView.o"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/CornerRoundingView.swiftdeps"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/CornerRoundingView.d"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/CornerRoundingView.dia"

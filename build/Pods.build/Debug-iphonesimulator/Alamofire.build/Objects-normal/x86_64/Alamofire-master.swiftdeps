@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "9f237d59130a43c5305deb146caa44582be5aec18e50879b7802283106bafe25"
+build_start_time: [1695715919, 426468000]
+build_end_time: [1695715921, 873221000]
+inputs:
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/AFError.swift": [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/Alamofire.swift": [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/MultipartFormData.swift": [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/Notifications.swift": [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/ParameterEncoding.swift": [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/Request.swift": [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/Response.swift": [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/ResponseSerialization.swift": [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/Result.swift": [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/SessionDelegate.swift": [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/SessionManager.swift": [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/TaskDelegate.swift": [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/Timeline.swift": [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/Validation.swift": [1687436509, 0]

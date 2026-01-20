@@ -1,0 +1,4 @@
+dependencies: \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/build/Pods.build/Debug-iphonesimulator/GoogleUtilities.build/module.modulemap \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/GoogleUtilities/GoogleUtilities/Environment/NetworkInfo/GULNetworkInfo.m \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULNetworkInfo.h

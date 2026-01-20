@@ -1,0 +1,102 @@
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Model/MyTransactionModel.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Model/GuideListModel.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Model/UserIntrestModel.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/LoginOrSignup/SignupVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Model/LoginModel.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/BookingHistory/PaymentVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Model/NotificationListModel.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Model/GuideDetailModel.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/Home/AvilableGuideList/xib/AvilableGuideListTableCell.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Guide/Booking/GuideOpenTourVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/Home/TouristHomeVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Resources/External\ Libraries/Country\ Code/CountiresViewController/CountriesViewControllerDelegate.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/LoginOrSignup/SelectLoginTypeVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/TouristMainVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Guide/Videos/ShortVideosVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/BookingHistory/PostAReviewVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Guide/Home/TourPackage/AddNewTourVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/LoginOrSignup/TouristCompliteProfileVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Model/ChatConversationModel.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Model/ChatUserModel.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Guide/Booking/History/Xib/GuidePaymentHistoryTableCell.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Guide/Profile/Notification/GuideNotificationVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Resources/Global\ Functions/Function/GradientBackgroundView.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Guide/Videos/PostAVideo/PostAVideoVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/LoginOrSignup/ForgotPasswordVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/Home/AvilableGuideList/PayNowVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/NotificationHistory/NotificationHistoryVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/LoginOrSignup/Selection/SelectionVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/Message/xib/Chat/ChatImageTableViewCell.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Resources/External\ Libraries/Country\ Code/CountiresViewController/CountriesViewController.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Resources/Global\ Functions/Api/APIhandler.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Model/BankModel.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/Message/xib/Chat/Sender/SenderTextTableViewCell.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Guide/Profile/EditGuideDetailVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/Home/AvilableGuideList/AvilableGuideListVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Guide/Home/TourPackage/xib/DefaultTourCollectionCell.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Resources/Constant/String.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Guide/Profile/GuideProfileVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/SplaceScreen/SplaceScreenVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Resources/External\ Libraries/Country\ Code/CountiresViewController/Country.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Resources/Global\ Functions/Font/ConstantHeader.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/LoginOrSignup/CompliteYourProfileVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/BookingHistory/xib/BookingHistoryTableCell.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Resources/Global\ Functions/Function/ConstantFunction.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Guide/Home/GuideHomeVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/Message/ChatConversationVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Resources/Global\ Functions/Function/UITextFieldPadding.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Model/DefaultPackageModel.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Guide/Videos/xib/ShortVideoCollectionCell.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Reachability/AppDelegate.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Guide/Home/TourPackage/TourPackageVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/LoginOrSignup/Selection/Xib/SelectedItemCollectionCell.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/LoginOrSignup/Selection/Xib/SelectionListTableCell.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Model/GuideDashboardModel.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/Video/xib/TouristVideoVCCollectionCell.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Resources/External\ Libraries/VideoHelper/VideoHelper.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/Profile/TouristProfileVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/LoginOrSignup/xib/ImportantPlaceTableCell.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/BookingHistory/BookingDetailVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Resources/External\ Libraries/IJProgressView/IJProgressView.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Resources/Constant/KMPlaceholderTextView.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Guide/Message/GuideMessageVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Guide/Profile/ChangePasswordVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Resources/Global\ Functions/Extension/Extension.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/NotificationHistory/xib/NotificationTableCell.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/BookingHistory/BookingHistoryVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Model/OrderDetailModel.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Guide/Home/TourRequest/TourRequestVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/BookingHistory/xib/OtherUserReviewTableCell.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Resources/Constant/Constant.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/Message/xib/Chat/Sender/SenderImageTableViewCell.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Guide/Videos/VideoPlayerVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Guide/Home/TourPackage/ViewDefaultPackageVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/Message/xib/Chat/Reciver/ReciverImageTableViewCell.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/Message/TouristMessageVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/BookingHistory/xib/PaymentHistoryTableCell.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Resources/Global\ Functions/Font/UIFont+CustomDefine.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Model/OtherReviewModel.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/Message/xib/Chat/Reciver/ReciverTableViewCell.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Guide/Booking/History/PaymentHistoryVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/Profile/EditProfile/TouristEditProfileVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Resources/External\ Libraries/Date\ Picker/RPicker.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/Video/TouristVideoVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Guide/GuideMainVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Model/VideoListModel.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/BookingHistory/BookingSummaryVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Resources/Global\ Functions/Network/Reachability.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Guide/Home/TourPackage/xib/SpacialPackageTableCell.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Guide/Booking/GuideBookingHistoryVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Guide/Profile/BanckDetailVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/Home/AvilableGuideList/SelectATourVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Resources/External\ Libraries/Country\ Code/AppResources/CountryModel.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/Message/xib/TouristMessageTableCell.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/Tourist/Home/AvilableGuideList/TourGuideProfileVC.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Model/GuideReviewListModel.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Resources/Constant/Key.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Resources/External\ Libraries/Image\ Picker/ImagePicker.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Reachability/SceneDelegate.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Resources/External\ Libraries/Image\ Slider/AACarousel.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Model/MyTourModel.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/Resources/External\ Libraries/Country\ Code/CountiresViewController/Countries.swift
+/Users/ios_kol/Downloads/Utalii\ 3\ 3/Utalii/controller/LoginOrSignup/LoginVC.swift

@@ -1,0 +1,36 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "7674ac58a9f272a59ebba832ba46ef2c105e523bf41ab505b6ca260714109c4f"
+build_start_time: [1695715924, 5662000]
+build_end_time: [1695715931, 611747000]
+inputs:
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Categories/IQNSArray+Sort.swift": [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Categories/IQUIScrollView+Additions.swift": [1687436510, 0]
+  ? "/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Categories/IQUITextFieldView+Additions.swift"
+  : [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Categories/IQUIView+Hierarchy.swift": [1687436510, 0]
+  ? "/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Categories/IQUIViewController+Additions.swift"
+  : [1687436510, 0]
+  ? "/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Constants/IQKeyboardManagerConstants.swift"
+  : [1687436510, 0]
+  ? "/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Constants/IQKeyboardManagerConstantsInternal.swift"
+  : [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQKeyboardManager+Debug.swift": [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQKeyboardManager+Internal.swift": [1687436510, 0]
+  ? "/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQKeyboardManager+OrientationNotification.swift"
+  : [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQKeyboardManager+Position.swift": [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQKeyboardManager+Toolbar.swift": [1687436510, 0]
+  ? "/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQKeyboardManager+UIKeyboardNotification.swift"
+  : [1687436510, 0]
+  ? "/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQKeyboardManager+UITextFieldViewNotification.swift"
+  : [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQKeyboardManager.swift": [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQKeyboardReturnKeyHandler.swift": [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQTextView/IQTextView.swift": [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQBarButtonItem.swift": [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQInvocation.swift": [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQPreviousNextView.swift": [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQTitleBarButtonItem.swift": [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQToolbar.swift": [1687436510, 0]
+  ? "/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQUIView+IQKeyboardToolbar.swift"
+  : [1687436510, 0]

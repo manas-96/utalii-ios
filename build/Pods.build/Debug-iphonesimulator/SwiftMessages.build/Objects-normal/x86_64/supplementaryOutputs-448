@@ -1,0 +1,15 @@
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/SwiftMessages/SwiftMessages/Weak.swift":
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/Weak.swiftdeps"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/Weak.d"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/Weak.dia"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/Weak.o"
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/SwiftMessages/SwiftMessages/WindowScene.swift":
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/WindowScene.o"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/WindowScene.swiftdeps"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/WindowScene.d"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/WindowScene.dia"
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/SwiftMessages/SwiftMessages/WindowViewController.swift":
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/WindowViewController.o"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/WindowViewController.d"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/WindowViewController.dia"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/Objects-normal/x86_64/WindowViewController.swiftdeps"

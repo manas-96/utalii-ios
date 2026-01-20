@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/ios_kol/Downloads/Utalii 3 3/build/Debug-iphonesimulator/SwiftMessages/SwiftMessages.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/ios_kol/Downloads/Utalii 3 3/build/Debug-iphonesimulator/SwiftMessages/SwiftMessages.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "SwiftMessages-Swift.h",
+      'external-contents': "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/SwiftMessages.build/unextended-interface-header.h",
+    }]
+    }]
+}

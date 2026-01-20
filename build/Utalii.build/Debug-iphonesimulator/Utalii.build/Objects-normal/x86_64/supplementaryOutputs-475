@@ -1,0 +1,65 @@
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/Guide/Message/GuideMessageVC.swift":
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/GuideMessageVC.o"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/GuideMessageVC.dia"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/GuideMessageVC.d"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/GuideMessageVC.swiftdeps"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/Resources/External Libraries/IJProgressView/IJProgressView.swift":
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/IJProgressView.d"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/IJProgressView.o"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/IJProgressView.dia"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/IJProgressView.swiftdeps"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/Tourist/Video/xib/TouristVideoVCCollectionCell.swift":
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/TouristVideoVCCollectionCell.d"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/TouristVideoVCCollectionCell.swiftdeps"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/TouristVideoVCCollectionCell.o"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/TouristVideoVCCollectionCell.dia"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/Model/GuideDashboardModel.swift":
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/GuideDashboardModel.swiftdeps"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/GuideDashboardModel.o"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/GuideDashboardModel.dia"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/GuideDashboardModel.d"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/Resources/Constant/KMPlaceholderTextView.swift":
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/KMPlaceholderTextView.d"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/KMPlaceholderTextView.dia"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/KMPlaceholderTextView.swiftdeps"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/KMPlaceholderTextView.o"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/Resources/External Libraries/VideoHelper/VideoHelper.swift":
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/VideoHelper.swiftdeps"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/VideoHelper.d"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/VideoHelper.o"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/VideoHelper.dia"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/Resources/Global Functions/Extension/Extension.swift":
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/Extension.o"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/Extension.d"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/Extension.dia"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/Extension.swiftdeps"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/Tourist/BookingHistory/BookingDetailVC.swift":
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/BookingDetailVC.o"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/BookingDetailVC.d"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/BookingDetailVC.swiftdeps"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/BookingDetailVC.dia"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/Tourist/NotificationHistory/xib/NotificationTableCell.swift":
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/NotificationTableCell.d"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/NotificationTableCell.o"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/NotificationTableCell.dia"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/NotificationTableCell.swiftdeps"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/Tourist/Profile/TouristProfileVC.swift":
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/TouristProfileVC.swiftdeps"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/TouristProfileVC.dia"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/TouristProfileVC.o"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/TouristProfileVC.d"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/LoginOrSignup/Selection/Xib/SelectionListTableCell.swift":
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/SelectionListTableCell.o"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/SelectionListTableCell.d"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/SelectionListTableCell.swiftdeps"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/SelectionListTableCell.dia"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/Guide/Profile/ChangePasswordVC.swift":
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/ChangePasswordVC.dia"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/ChangePasswordVC.d"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/ChangePasswordVC.swiftdeps"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/ChangePasswordVC.o"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/LoginOrSignup/xib/ImportantPlaceTableCell.swift":
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/ImportantPlaceTableCell.d"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/ImportantPlaceTableCell.swiftdeps"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/ImportantPlaceTableCell.o"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/x86_64/ImportantPlaceTableCell.dia"

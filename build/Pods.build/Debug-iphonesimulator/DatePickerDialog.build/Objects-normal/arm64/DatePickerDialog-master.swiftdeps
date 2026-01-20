@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "99b9616a8b99c296116d5bf40aa11d8b23039068bcd6838a5fe8d0a7b69058c2"
+build_start_time: [1695715389, 372278000]
+build_end_time: [1695715393, 749622000]
+inputs:
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/DatePickerDialog/Sources/Colors.swift": [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/DatePickerDialog/Sources/DatePickerDialog.swift": [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/DatePickerDialog/Sources/UIColor+Ext.swift": [1687436509, 0]

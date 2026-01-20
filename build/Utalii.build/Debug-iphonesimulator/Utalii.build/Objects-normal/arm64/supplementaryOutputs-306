@@ -1,0 +1,65 @@
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/Tourist/TouristMainVC.swift":
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/TouristMainVC.o"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/TouristMainVC.dia"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/TouristMainVC.swiftdeps"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/TouristMainVC.d"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/Guide/Profile/Notification/GuideNotificationVC.swift":
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/GuideNotificationVC.o"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/GuideNotificationVC.swiftdeps"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/GuideNotificationVC.d"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/GuideNotificationVC.dia"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/LoginOrSignup/ForgotPasswordVC.swift":
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/ForgotPasswordVC.dia"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/ForgotPasswordVC.swiftdeps"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/ForgotPasswordVC.d"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/ForgotPasswordVC.o"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/Tourist/Home/AvilableGuideList/PayNowVC.swift":
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/PayNowVC.dia"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/PayNowVC.d"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/PayNowVC.swiftdeps"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/PayNowVC.o"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/LoginOrSignup/TouristCompliteProfileVC.swift":
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/TouristCompliteProfileVC.d"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/TouristCompliteProfileVC.dia"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/TouristCompliteProfileVC.swiftdeps"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/TouristCompliteProfileVC.o"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/Model/ChatUserModel.swift":
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/ChatUserModel.d"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/ChatUserModel.o"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/ChatUserModel.swiftdeps"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/ChatUserModel.dia"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/Guide/Videos/PostAVideo/PostAVideoVC.swift":
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/PostAVideoVC.o"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/PostAVideoVC.swiftdeps"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/PostAVideoVC.d"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/PostAVideoVC.dia"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/Tourist/BookingHistory/PostAReviewVC.swift":
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/PostAReviewVC.d"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/PostAReviewVC.swiftdeps"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/PostAReviewVC.dia"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/PostAReviewVC.o"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/Guide/Videos/ShortVideosVC.swift":
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/ShortVideosVC.dia"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/ShortVideosVC.swiftdeps"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/ShortVideosVC.o"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/ShortVideosVC.d"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/Guide/Booking/History/Xib/GuidePaymentHistoryTableCell.swift":
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/GuidePaymentHistoryTableCell.o"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/GuidePaymentHistoryTableCell.d"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/GuidePaymentHistoryTableCell.swiftdeps"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/GuidePaymentHistoryTableCell.dia"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/Model/ChatConversationModel.swift":
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/ChatConversationModel.d"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/ChatConversationModel.swiftdeps"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/ChatConversationModel.o"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/ChatConversationModel.dia"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/Resources/Global Functions/Function/GradientBackgroundView.swift":
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/GradientBackgroundView.dia"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/GradientBackgroundView.swiftdeps"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/GradientBackgroundView.o"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/GradientBackgroundView.d"
+"/Users/ios_kol/Downloads/Utalii 3 3/Utalii/controller/Guide/Home/TourPackage/AddNewTourVC.swift":
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/AddNewTourVC.d"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/AddNewTourVC.swiftdeps"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/AddNewTourVC.dia"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Utalii.build/Debug-iphonesimulator/Utalii.build/Objects-normal/arm64/AddNewTourVC.o"

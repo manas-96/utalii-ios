@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "86c67c8bf2a96c9b806a8dd339f676f16773854afe08da6f650c7d4f7efbda48"
+build_start_time: [1695715923, 967597000]
+build_end_time: [1695715931, 583275000]
+inputs:
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/NewPopMenu/PopMenu/Classes/Helpers/Haptics.swift": [1687436728, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/NewPopMenu/PopMenu/Classes/Helpers/PopMenuGradientView.swift": [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/NewPopMenu/PopMenu/Classes/Helpers/UIColor+Contrast.swift": [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/NewPopMenu/PopMenu/Classes/Helpers/UIView+Shadows.swift": [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/NewPopMenu/PopMenu/Classes/PopMenuAppearance.swift": [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/NewPopMenu/PopMenu/Classes/PopMenuManager.swift": [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/NewPopMenu/PopMenu/Transitions/PopMenuDismissAnimationController.swift": [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/NewPopMenu/PopMenu/Transitions/PopMenuPresentAnimationController.swift": [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/NewPopMenu/PopMenu/View Controller & Views/PopMenuAction.swift": [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/NewPopMenu/PopMenu/View Controller & Views/PopMenuViewController.swift": [1687436728, 0]

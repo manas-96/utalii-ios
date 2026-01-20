@@ -1,0 +1,15 @@
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/Alamofire.swift":
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Alamofire.swiftdeps"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Alamofire.o"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Alamofire.dia"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Alamofire.d"
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/AFError.swift":
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/AFError.o"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/AFError.swiftdeps"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/AFError.d"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/AFError.dia"
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift":
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.swiftdeps"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.d"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.o"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/DispatchQueue+Alamofire.dia"

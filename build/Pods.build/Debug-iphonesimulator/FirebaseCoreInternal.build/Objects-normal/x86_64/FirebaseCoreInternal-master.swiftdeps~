@@ -1,0 +1,23 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "2eb9b541721fc696598f2ea9712be4711c7ac6c219b3b3e8e607bd353b313b40"
+build_start_time: [1695715927, 577840000]
+build_end_time: [1695715927, 627092000]
+inputs:
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift": !private [1687436510, 0]
+  ? "/Users/ios_kol/Downloads/Utalii 3 3/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : !private [1687436510, 0]
+  ? "/Users/ios_kol/Downloads/Utalii 3 3/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : !private [1687436510, 0]
+  ? "/Users/ios_kol/Downloads/Utalii 3 3/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : !private [1687436510, 0]
+  ? "/Users/ios_kol/Downloads/Utalii 3 3/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : !private [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift": !private [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift": !private [1687436510, 0]
+  ? "/Users/ios_kol/Downloads/Utalii 3 3/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : !private [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift": !private [1687436510, 0]
+  ? "/Users/ios_kol/Downloads/Utalii 3 3/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : !private [1687436510, 0]
+  ? "/Users/ios_kol/Downloads/Utalii 3 3/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : !private [1687436510, 0]

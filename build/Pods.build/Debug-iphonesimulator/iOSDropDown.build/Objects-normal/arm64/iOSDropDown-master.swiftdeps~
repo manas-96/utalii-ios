@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "b977de9ae8b29fb2fa3a33776abdbdd76482a41126a628b04c813b8fd54b041d"
+build_start_time: [1695715389, 200680000]
+build_end_time: [1695715389, 310461000]
+inputs:
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/iOSDropDown/iOSDropDown/Classes/iOSDropDown.swift": !private [1687436512, 0]

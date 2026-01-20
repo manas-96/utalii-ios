@@ -1,0 +1,15 @@
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Categories/IQUIScrollView+Additions.swift":
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQUIScrollView+Additions.dia"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQUIScrollView+Additions.swiftdeps"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQUIScrollView+Additions.o"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQUIScrollView+Additions.d"
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Categories/IQUITextFieldView+Additions.swift":
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQUITextFieldView+Additions.dia"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQUITextFieldView+Additions.swiftdeps"
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQUITextFieldView+Additions.d"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQUITextFieldView+Additions.o"
+"/Users/ios_kol/Downloads/Utalii 3 3/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Categories/IQUIView+Hierarchy.swift":
+  dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQUIView+Hierarchy.d"
+  swift-dependencies: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQUIView+Hierarchy.swiftdeps"
+  object: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQUIView+Hierarchy.o"
+  diagnostics: "/Users/ios_kol/Downloads/Utalii 3 3/build/Pods.build/Debug-iphonesimulator/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQUIView+Hierarchy.dia"

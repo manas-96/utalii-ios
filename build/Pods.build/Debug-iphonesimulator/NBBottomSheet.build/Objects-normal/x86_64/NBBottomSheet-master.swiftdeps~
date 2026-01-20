@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "ce38ff5420f8c6e7acb84b05a55ef663196dc745a819ff1191bb945ddb108d6b"
+build_start_time: [1695715923, 987847000]
+build_end_time: [1695715924, 21409000]
+inputs:
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/NBBottomSheet/NBBottomSheet/NBBottomSheet/Sources/NBBottomSheetConfiguration.swift": !private [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/NBBottomSheet/NBBottomSheet/NBBottomSheet/Sources/NBBottomSheetController.swift": !private [1687436510, 0]
+  ? "/Users/ios_kol/Downloads/Utalii 3 3/Pods/NBBottomSheet/NBBottomSheet/NBBottomSheet/Sources/NBBottomSheetDismissalTransition.swift"
+  : !private [1687436510, 0]
+  ? "/Users/ios_kol/Downloads/Utalii 3 3/Pods/NBBottomSheet/NBBottomSheet/NBBottomSheet/Sources/NBBottomSheetPresentationController.swift"
+  : !private [1687436510, 0]
+  ? "/Users/ios_kol/Downloads/Utalii 3 3/Pods/NBBottomSheet/NBBottomSheet/NBBottomSheet/Sources/NBBottomSheetPresentationTransition.swift"
+  : !private [1687436510, 0]
+  ? "/Users/ios_kol/Downloads/Utalii 3 3/Pods/NBBottomSheet/NBBottomSheet/NBBottomSheet/Sources/NBBottomSheetTransitioningDelegate.swift"
+  : !private [1687436510, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/NBBottomSheet/NBBottomSheet/NBBottomSheet/Sources/NBConfiguration.swift": !private [1687436510, 0]

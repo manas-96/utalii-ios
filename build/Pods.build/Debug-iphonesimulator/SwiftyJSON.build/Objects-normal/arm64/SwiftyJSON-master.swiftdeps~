@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "2bd19d21493ec83a29bd30b18ebb71cf08dd22617731010f54b24bd9993a2b16"
+build_start_time: [1695715389, 205876000]
+build_end_time: [1695715389, 310810000]
+inputs:
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift": !private [1687436512, 0]

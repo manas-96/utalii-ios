@@ -1,0 +1,51 @@
+dependencies: \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/build/Pods.build/Debug-iphonesimulator/FirebaseInstallations.build/module.modulemap \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsAPIService.m \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsAPIService.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromises.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/build/Pods.build/Debug-iphonesimulator/PromisesObjC.build/module.modulemap \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/Target\ Support\ Files/PromisesObjC/PromisesObjC-umbrella.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+All.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromiseError.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Always.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Any.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Async.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Await.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Catch.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Delay.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Do.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Race.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Recover.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Reduce.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Retry.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Testing.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Then.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Timeout.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Validate.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Wrap.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseInstallations/FirebaseCore/Extension/FirebaseCoreInternal.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/build/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRAppInternal.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRComponent.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRComponentContainer.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRComponentType.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRDependency.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRHeartbeatLogger.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRLibrary.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseInstallations/FirebaseCore/Extension/FIRLogger.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseInstallations/FirebaseCore/Extension/FIROptionsInternal.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Errors/FIRInstallationsErrorUtil.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsErrors.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Errors/FIRInstallationsHTTPError.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsLogger.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsItem+RegisterInstallationAPI.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsItem.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsStatus.h

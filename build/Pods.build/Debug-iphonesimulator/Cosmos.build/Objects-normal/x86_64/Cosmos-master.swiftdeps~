@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "ac66255f4936d9a92cc2b46ed275a2f660c66d382dc6253cf576b29303a437ca"
+build_start_time: [1695715924, 77140000]
+build_end_time: [1695715924, 109029000]
+inputs:
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Cosmos/Cosmos/CosmosAccessibility.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Cosmos/Cosmos/CosmosDefaultSettings.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Cosmos/Cosmos/CosmosLayerHelper.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Cosmos/Cosmos/CosmosLayers.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Cosmos/Cosmos/CosmosLocalizedRating.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Cosmos/Cosmos/CosmosRating.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Cosmos/Cosmos/CosmosSettings.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Cosmos/Cosmos/CosmosSize.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Cosmos/Cosmos/CosmosText.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Cosmos/Cosmos/CosmosTouch.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Cosmos/Cosmos/CosmosView.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Cosmos/Cosmos/Helpers/CosmosTouchTarget.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Cosmos/Cosmos/Helpers/RightToLeft.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Cosmos/Cosmos/StarFillMode.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Cosmos/Cosmos/StarLayer.swift": !private [1687436509, 0]

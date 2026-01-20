@@ -1,0 +1,10 @@
+framework module iOSDropDown {
+  umbrella header "iOSDropDown-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module iOSDropDown.__Swift {
+  exclude header "iOSDropDown-Swift.h"
+}

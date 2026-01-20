@@ -1,0 +1,9 @@
+dependencies: \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/build/Pods.build/Debug-iphonesimulator/FirebaseMessaging.build/module.modulemap \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenInfo.m \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenInfo.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingAPNSInfo.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingConstants.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingLogger.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingCode.h \
+  /Users/ios_kol/Downloads/Utalii\ 3\ 3/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingUtilities.h

@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "ae601a7b2c8c5429f57368418ec6564f19c823ec7efd6ee4013d8296dabac445"
+build_start_time: [1695715389, 414103000]
+build_end_time: [1695715389, 442124000]
+inputs:
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/AFError.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/Alamofire.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/MultipartFormData.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/NetworkReachabilityManager.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/Notifications.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/ParameterEncoding.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/Request.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/Response.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/ResponseSerialization.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/Result.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/ServerTrustPolicy.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/SessionDelegate.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/SessionManager.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/TaskDelegate.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/Timeline.swift": !private [1687436509, 0]
+  "/Users/ios_kol/Downloads/Utalii 3 3/Pods/Alamofire/Source/Validation.swift": !private [1687436509, 0]
